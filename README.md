@@ -1,27 +1,43 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Shyam Nandasana</h1>
 
-<h3 align="center">A passionate developer from India 🇮🇳</h3>
+<h3 align="center">Full Stack Developer | ASP.NET Core | Web API Developer 🇮🇳</h3>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Notes App**
-- 🌱 I’m currently learning **React, Node, DSA, MongoDB**
-- 💬 Ask me about **React / Web Development**
-- 📫 How to reach me: yourmail@gmail.com
+- 🔭 I am a Full Stack Developer specializing in ASP.NET Core, Web API, and MVC
+- 🏗️ I enjoy building real-world applications like E-Commerce, CRUD systems, and API-based projects
+- 💡 I focus on writing clean architecture, scalable backend systems, and efficient APIs
+- 🚀 Continuously improving my skills in system design and full stack development
 
 ---
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://twitter.com/"><img src="https://img.icons8.com/color/48/twitter--v1.png" width="40"/></a>
-<a href="https://instagram.com/"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="40"/></a>
-<a href="https://linkedin.com/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
+<a href="https://linkedin.com/in/shyam-nandasana/">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
+
+<a href="https://github.com/shyamnandasana">
+<img src="https://img.icons8.com/color/48/github.png" width="40"/></a>
+
+<a href="mailto:shyamnandasana@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail.png" width="40"/></a>
 </p>
 
 ---
 
 ### 🛠 Languages and Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,nodejs,express,mongodb,postgresql,react,tailwind,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,java,cpp,dotnet,visualstudio,git,github,postman,mysql" />
 </p>
+
+---
+
+### 📂 Projects
+- 🛒 **E-Commerce Web Application** – ASP.NET MVC + Web API + JWT Authentication  
+- 📚 **Book Management System** – CRUD operations using ASP.NET Core MVC  
+- 🧠 **Quiz Management System** – Quiz-wise question management and generation  
+
+---
+
+⭐ Thanks for visiting my profile!
