@@ -46,11 +46,10 @@ I have worked with REST APIs, database design, and web application development u
 ## 📂 Projects
 
 ### 🛒 E-Commerce Web Application(in working)
-- Built REST APIs for product, cart, and order management  
-- Implemented JWT authentication and authorization  
-- Designed and managed SQL Server database  
-- Connected frontend with backend APIs  
-
+- Built ASP.NET MVC application with Web API integration for product and order management
+- Implemented JWT authentication and authorization for secure access
+- Used Web API for backend services and MVC for frontend UI  
+- Managed and stored data using SQL Server database
 ---
 
 ### 📚 Book Management System
