@@ -28,8 +28,7 @@
 
 ### 🛠 Languages and Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,java,c#,dotnet,visualstudio,github,postman,mysql,mssql" />
----
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,java,dotnet,visualstudio,git,github,postman,mysql,mssql" />
 
 ### 📂 Projects
 - 🛒 **E-Commerce Web Application** – ASP.NET MVC + Web API + JWT Authentication  
