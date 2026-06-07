@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shyam Nandasana</h1>
 
-<h3 align="center">Full Stack Developer | ASP.NET Core | Web API Developer 🇮🇳</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 ---
 
