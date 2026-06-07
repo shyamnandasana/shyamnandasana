@@ -28,7 +28,7 @@
 
 ### 🛠 Languages and Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,java,cpp,dotnet,visualstudio,git,github,postman,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,java,dotnet,visualstudio,github,postman,mssql" />
 </p>
 
 ---
