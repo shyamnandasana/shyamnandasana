@@ -1,100 +1,20 @@
-# 👨‍💻 Shyam Nandasana  
-Full Stack Developer
+# 👨‍💻 Hi, I'm Shyam Patel  
+### Full Stack Developer  
 
 ---
 
-## 🧾 Profile Summary
-
-I am a Full Stack Developer with experience in both frontend and backend development. I focus on building scalable, clean, and maintainable web applications.
-
-I have worked with REST APIs, database design, and web application development using **.NET technologies and JavaScript-based tools**.
-
----
-
-## 🛠️ Technical Skills
-
-### 🎨 Frontend Development
-- HTML5  
-- CSS3  
-- JavaScript  
-- ASP.NET MVC  
-
-### ⚙️ Backend Development
-- ASP.NET Core Web API  
-- RESTful API Development  
-- Entity Framework Core
-- Nest.js
-
-### ⚙️ Backend Development
-- Java
-- C#
-- C
-
-### 🗄️ Database
-- SQL Server  
-- MySQL  
-- Database Design  
-- Query Optimization  
-
-### 🔧 Tools & Technologies
-- Git & GitHub  
-- Visual Studio / VS Code  
-- Postman  
-- Swagger  
----
-
-## 📂 Projects
-
-### 🛒 E-Commerce Web Application(in working)
-- Built ASP.NET MVC application with Web API integration for product and order management
-- Implemented JWT authentication and authorization for secure access
-- Used Web API for backend services and MVC for frontend UI  
-- Managed and stored data using SQL Server database
----
-
-### 📚 Book Management System
-- Developed CRUD operations using ASP.NET Core MVC  
-- Implemented file upload functionality for book images  
-- Used DTO pattern for clean architecture  
-- Integrated SQL Server database  
+- 🌱 I’m currently working on **ASP.NET Core Web API & MVC**
+- 💻 I build **Full Stack Web Applications**
+- 🗄️ I work with **SQL Server & REST APIs**
+- 📫 Reach me at: shyamnandasana@gmail.com  
 
 ---
 
-### 🧠 Quiz Management System
- - Developed a system to create and manage quizzes
- - Implemented quiz-wise question management functionality
- - Allowed users to attempt quizzes based on selected topics
- - Generated quizzes dynamically from stored question bank
- - Integrated SQL Server database for data storage and management
-
-## 🧠 Work Approach
-
-- Write clean and maintainable code  
-- Follow layered architecture (Controller → Service → Repository)  
-- Focus on API security and performance  
-- Understand requirements before development  
-- Continuous learning and improvement  
+## 🔗 Connect with me
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 🐙 GitHub: https://github.com/your-username  
 
 ---
 
-## 🎓 Education
-
-- 🎓 Bachelor’s Degree in Computer Science & Engineering
-
----
-
-## 🎯 Career Objective
-
-To work as a Full Stack Developer in a growth-oriented organization where I can utilize my skills in frontend and backend development to build real-world scalable applications.
-
----
-
-## 📞 Contact
-
-- 📧 Email: shyamnandasana@gmail.com
-- 🐙 GitHub: https://github.com/shyamnandasana
-- 💼 LinkedIn: https://www.linkedin.com/in/shyam-nandasana/
-
----
-
-⭐ Thank you for visiting my profile!
+## 🛠️ Languages and Tools
+C | C# | Java | HTML | CSS | JavaScript | ASP.NET MVC | Web API | SQL Server
