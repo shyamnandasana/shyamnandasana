@@ -62,11 +62,11 @@ I have worked with REST APIs, database design, and web application development u
 ---
 
 ### 🧠 Quiz Management System
-Developed a system to create and manage quizzes
-Implemented quiz-wise question management functionality
-Allowed users to attempt quizzes based on selected topics
-Generated quizzes dynamically from stored question bank
-Integrated SQL Server database for data storage and management
+ - Developed a system to create and manage quizzes
+ - Implemented quiz-wise question management functionality
+ - Allowed users to attempt quizzes based on selected topics
+ - Generated quizzes dynamically from stored question bank
+ - Integrated SQL Server database for data storage and management
 
 ## 🧠 Work Approach
 
